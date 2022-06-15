@@ -242,7 +242,7 @@ var playerInfo = {
             this.money -= 7;
         }
         else {
-            window.alert("You don;t have enough money!");
+            window.alert("You don't have enough money!");
         }
     },
 
